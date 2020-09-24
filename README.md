@@ -1,0 +1,2 @@
+# manual-oracle
+for me
